@@ -1,0 +1,34 @@
+{
+  "name": "babel-plugin-transform-es3-modules-literals",
+  "version": "0.0.1",
+  "description": "Ensure that reserved words [default] are quoted in import/exports accesses, quoted in object-property/member by the way.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coudly/babel-plugin-transform-es3-modules-literals"
+  },
+  "license": "MIT",
+  "main": "lib/index.js",
+  "keywords": [
+    "babel-plugin es3 modules (import/exports) default literals"
+  ],
+  "dependencies": {
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.4.0"
+  },
+  "devDependencies": {
+    "babel-helper-plugin-test-runner": "^6.3.13",
+    "babel-plugin-external-helpers": "^6.4.0",
+    "babel-plugin-transform-es2015-modules-amd": "^6.4.0"
+  },
+  "_id": "babel-plugin-transform-es3-modules-literals@0.0.1",
+  "scripts": {
+    "test": "mocha"
+  },
+  "maintainers": [
+    {
+      "name": "leezhaoyun",
+      "email": "leezhaoyun@gmail.com"
+    }
+  ],
+  "directories": {},
+  "readme": "README.md"
+}
