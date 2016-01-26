@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-transform-es3-modules-literals",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Ensure that reserved words [default] are quoted in import/exports accesses, quoted in object-property/member by the way.",
   "repository": {
     "type": "git",
